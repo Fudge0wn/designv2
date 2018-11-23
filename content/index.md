@@ -1,25 +1,29 @@
 ---
-title: "Min fina titel"
+title: "Joonas me-sida"
+views:
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            meta:
+                type: single
+                route: block/byline
 ---
 Min me-sida i kursen design
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/jag.jpg?height=500" class="right" caption="Bild på mig"]
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+Hallå där! Detta är min me-sida för kursen Teknisk webbdesign och användbarhet, eller kort och gott, "design-kursen".
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Här ser ni en ganska nytagen bild på mig från i somras. Jag är en hel del blekare nu men i det stora hela så är det så här jag ser ut! Jag heter Joonas Lundwall (ja, det ska vara två "o" i namnet, men det är bara att uttala det som Jonas, det kommer från mitt finska påbrå) och kommer från Hultsfred, Småland.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Jag är 24 år gammal och tänkte att det äntligen är dags att ta tag i plugget. Jag vet fortfarande inte vad jag vill bli när jag blir stor men
+jag tänkte att en bra början är nog att gå distansprogrammet webbprogrammering på BTH.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+Jag har i några år nu jobbat på tryckeri, där jag började som tryckeribiträde och sedan fick intern utbildning för att bli tryckare. Vi trycker allt från magasiner, kataloger till busstidtabeller.
+Jag har fortfarande samma jobb och parerar detta med studierna. Det har varit tufft att göra detta, men man är bra på att vänja sig, så det rullar på!
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Mina stora intressen är datorspel, lyfta vikter på gym och spela golf, samt spelat pingis i 10 år. Överlag är jag väldigt prylgalen och gillar att köpa ny hårdvara/teknik till min dator som jag kan skruva i, för att sedan slänga ut det när det finns en nyare modell och börja cirkeln på nytt.
