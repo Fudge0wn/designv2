@@ -13,7 +13,7 @@ views:
 Min me-sida i kursen design
 =========================
 
-[FIGURE src="image/jag.jpg?height=500" class="right" caption="Bild på mig"]
+[FIGURE src="image/jag.jpg?height=500" class="right"]
 
 Hallå där! Detta är min me-sida för kursen Teknisk webbdesign och användbarhet, eller kort och gott, "design-kursen".
 
